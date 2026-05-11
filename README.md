@@ -1,4 +1,4 @@
-# BurnCaptions
+# Video-Caption-Tool
 
 A simple Windows tool that burns SRT subtitle files into video files as hardcoded, TikTok/Reels-style captions — producing ready-to-post MP4s.
 
